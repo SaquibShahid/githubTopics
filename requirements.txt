@@ -1,0 +1,8 @@
+# Core
+fastapi>=0.85
+uvicorn>=0.19
+streamlit>=1.22
+
+
+google-genai
+python-dotenv
